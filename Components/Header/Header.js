@@ -18,13 +18,16 @@ class Header extends Component {
 export default Header;
 const styles = StyleSheet.create({
     container:{
+   
+
     },
 
     text:{  
 textAlign: 'center',
 fontSize: 72,
 color: 'rgba(175, 47, 47, 0.25)',
-fontWeight: '100'
+fontWeight: '100',
+
 
     }   
 }
